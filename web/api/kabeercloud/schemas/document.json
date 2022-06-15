@@ -1,0 +1,18 @@
+{
+  "@meta": {
+    "inferred": {
+      "tags": [],
+      "resource": {
+        "document-type": "SPLIT FIRST TYPE FROM URL",
+        "variant": "SPLIT SECOND VARIANT FROM URL",
+        "session": "SPLIT W|S|M FROM URL",
+        "types": ["TYPE UUID | Array cause of read errors"]
+      }
+    }
+  },
+  "file": {
+    "location": "https://mirror-gcseguide.kabeercloud.tk/path/to/file.pdf",
+    "name": "NAME OF THE FILE",
+    "size": "FILE SIZE"
+  }
+}

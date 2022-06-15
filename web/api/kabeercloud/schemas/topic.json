@@ -1,0 +1,13 @@
+{
+  "name": "Physics",
+  "description": "NULL | DESCRIPTION FROM EXTERNAL SOURCE",
+  "@meta": {
+    "inferred": {
+      "code": "STRING|NULL",
+      "name_full": "Physics (9709)"
+    }
+  },
+  "@api": {
+    "provider": "gceguide"
+  }
+}

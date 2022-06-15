@@ -1,0 +1,21 @@
+{
+  "name": "Cambridge A Level",
+  "@api": {
+    "provider": "gceguide",
+    "@upstream": {
+      "base": {
+        "protocol": "https:",
+        "host": "gcse-guide-mirror-56kjh74.kabeercloud.tk"
+      },
+      "route": ["/A Levels"],
+      "method": "GET",
+      "@query": {},
+      "@headers": {},
+      "@body": {}
+    }
+  },
+  "appearances": {
+    "single_appearance": true,
+    "all": []
+  }
+}

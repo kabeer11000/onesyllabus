@@ -1,0 +1,1 @@
+Filteration is done on the client server, as any filteration here would require recomputing documents and indexes, which will be expensive so this server will cache the full collection locally and on s3, and will fall back to index creation if fails, 

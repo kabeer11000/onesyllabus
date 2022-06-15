@@ -1,0 +1,19 @@
+{
+  "name": "@kabeersnetwork/obfuscator",
+  "version": "1.0.0",
+  "description": "Obfuscation Library Used By Kabeer's Network Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabeer11000/onesyllabus.git"
+  },
+  "author": "Kabeer's Network Authors, Kabeer Jaffri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabeer11000/onesyllabus/issues"
+  },
+  "homepage": "https://github.com/kabeer11000/onesyllabus#readme"
+}

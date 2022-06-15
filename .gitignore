@@ -1,0 +1,9 @@
+web/node_modules
+packages/google-it/node_modules
+@unused
+ai/savedata
+crawlers/archive_220525_063106.zip
+crawlers/archive_220525_063106
+leafdb
+capacitor
+web/public

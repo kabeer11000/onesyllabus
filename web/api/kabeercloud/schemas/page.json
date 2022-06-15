@@ -1,0 +1,13 @@
+{
+  "text": "OCR EXTRACTED TEXT WITH '\n' FORMATTING",
+  "id": "UUID",
+  "@meta": {
+    "ocr": "kn.mlkit.ocr.tesseract",
+    "timestamp": "Date.now()"
+  },
+  "image": {
+    "hosted": "https://docs.kabeercloud.tk/static/papers/screenshots/PAGE_ID.png"
+  },
+  "pdf": "UUID OF THE PARENT PDF",
+  "index": 0
+}

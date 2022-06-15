@@ -1,0 +1,5 @@
+ann_path = "./savedata/index.ann"
+documents_cache_path = "./savedata/documents.json"
+remote_ann_path = "index.ann"
+remote_documents_cache_path = "documents.json"
+local_model_path = "./savedata/models/sentence-transformer"
